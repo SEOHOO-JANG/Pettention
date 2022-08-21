@@ -4,11 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="../resources/css/common.css">
+ <link rel="stylesheet" href="../resources/css/common.css">
+
 <title>Pettention</title>
 </head>
 <body>
- <h3>Hello world! 몽자 타임!</h3>
+<h3> Pettention</h3>
 
 </body>
 </html>
